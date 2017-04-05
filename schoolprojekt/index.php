@@ -75,7 +75,8 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="panel panel-primary" align="center">
-                    <div class="panel-heading">Rozvrh hodin</div>
+                    <div class="panel-heading">
+                        <a href="#">Rozvrh hodin</a></div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
@@ -84,7 +85,8 @@
             </div>
             <div class="col-sm-4">
                 <div class="panel panel-danger" align="center">
-                    <div class="panel-heading">Znamky</div>
+                    <div class="panel-heading">
+                        <a href="#">Znamky</a></div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
@@ -93,7 +95,8 @@
             </div>
             <div class="col-sm-4">
                 <div class="panel panel-success" align="center">
-                    <div class="panel-heading">Domace ulohy</div>
+                    <div class="panel-heading">
+                        <a href="#">Domace ulohy</a></div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
@@ -108,7 +111,8 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="panel panel-primary" align="center">
-                    <div class="panel-heading">Sportove sutaze</div>
+                    <div class="panel-heading">
+                        <a href="#">Sportove sutaze</a></div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
@@ -117,7 +121,8 @@
             </div>
             <div class="col-sm-4">
                 <div class="panel panel-primary" align="center">
-                    <div class="panel-heading">Vedomostne sutaze</div>
+                    <div class="panel-heading">
+                        <a href="#">Vedomostne sutaze</a></div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
@@ -126,7 +131,8 @@
             </div>
             <div class="col-sm-4">
                 <div class="panel panel-primary" align="center">
-                    <div class="panel-heading">Zaujimavosti</div>
+                    <div class="panel-heading">
+                        <a href="#">Zaujimavosti</a></div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
