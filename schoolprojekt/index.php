@@ -78,7 +78,7 @@
                     <div class="panel-heading">
                         <a href="#">Rozvrh hodin</a></div>
                     <div class="panel-body">
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
+                        <img src="rozvrh.jpg" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
                     <div class="panel-footer">Kedy, co a s kym?</div>
                 </div>
@@ -88,7 +88,7 @@
                     <div class="panel-heading">
                         <a href="#">Znamky</a></div>
                     <div class="panel-body">
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
+                        <img src="znamky.jpg" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
                     <div class="panel-footer">Ako sa mi dari?</div>
                 </div>
