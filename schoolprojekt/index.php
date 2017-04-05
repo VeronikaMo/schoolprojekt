@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sk">
 <head>
-    <title>Bootstrap Example</title>
+    <title>School</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
@@ -30,8 +30,8 @@
 
     <div class="jumbotron">
         <div class="container text-center">
-            <h1>Online Store</h1>
-            <p>Mission, Vission & Values</p>
+            <img src="skola.gif" style="width:100%" />
+            <h1>Hura do skoly!</h1>
         </div>
     </div>
 
@@ -43,18 +43,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Logo</a>
+                
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                    <li class="active">
-                        <a href="#">Home</a>
+                    <li>
+                        <a href="#">O skole</a>
                     </li>
                     <li>
-                        <a href="#">Products</a>
-                    </li>
-                    <li>
-                        <a href="#">Deals</a>
+                        <a href="#">Historia</a>
                     </li>
                     <li>
                         <a href="#">Stores</a>
@@ -66,12 +63,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="#">
-                            <span class="glyphicon glyphicon-user"></span>Your Account
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <span class="glyphicon glyphicon-shopping-cart"></span>Cart
+                            <span class="glyphicon glyphicon-user"></span>Prihlasenie
                         </a>
                     </li>
                 </ul>
@@ -82,30 +74,30 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
-                <div class="panel panel-primary">
-                    <div class="panel-heading">BLACK FRIDAY DEAL</div>
+                <div class="panel panel-primary" align="center">
+                    <div class="panel-heading">Rozvrh hodin</div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
-                    <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+                    <div class="panel-footer">Kedy, co a s kym?</div>
                 </div>
             </div>
             <div class="col-sm-4">
-                <div class="panel panel-danger">
-                    <div class="panel-heading">BLACK FRIDAY DEAL</div>
+                <div class="panel panel-danger" align="center">
+                    <div class="panel-heading">Znamky</div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
-                    <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+                    <div class="panel-footer">Ako sa mi dari?</div>
                 </div>
             </div>
             <div class="col-sm-4">
-                <div class="panel panel-success">
-                    <div class="panel-heading">BLACK FRIDAY DEAL</div>
+                <div class="panel panel-success" align="center">
+                    <div class="panel-heading">Domace ulohy</div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
-                    <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+                    <div class="panel-footer">Co mam urobit, aby som bol(a) o krok vpred?</div>
                 </div>
             </div>
         </div>
@@ -115,30 +107,30 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
-                <div class="panel panel-primary">
-                    <div class="panel-heading">BLACK FRIDAY DEAL</div>
+                <div class="panel panel-primary" align="center">
+                    <div class="panel-heading">Sportove sutaze</div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
-                    <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+                    <div class="panel-footer">A co tak si zmerat sily?</div>
                 </div>
             </div>
             <div class="col-sm-4">
-                <div class="panel panel-primary">
-                    <div class="panel-heading">BLACK FRIDAY DEAL</div>
+                <div class="panel panel-primary" align="center">
+                    <div class="panel-heading">Vedomostne sutaze</div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
-                    <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+                    <div class="panel-footer">Ci skor prevetrat mozgove zavity?</div>
                 </div>
             </div>
             <div class="col-sm-4">
-                <div class="panel panel-primary">
-                    <div class="panel-heading">BLACK FRIDAY DEAL</div>
+                <div class="panel panel-primary" align="center">
+                    <div class="panel-heading">Zaujimavosti</div>
                     <div class="panel-body">
                         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
-                    <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
+                    <div class="panel-footer">Co nove sa deje?</div>
                 </div>
             </div>
         </div>
